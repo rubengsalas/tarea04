@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: center;
+    align-content: center;
+    padding: 20px;
+    flex-basis: 1;
+    .item{
+        -webkit-flex: auto;
+        flex: 0 0 auto;
+    }
+    .item.bold{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .item.small{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 12px;
+    }
+}
+
+.premain{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    flex-basis: 1;
+    width: 100%;
+    margin: auto;
+    img{
+        width: 100%;
+        height: auto;
+    }
+}
+
+.main{
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+    flex-basis: 1;
+    width: 90%;
+    margin: auto;
+    .item{
+        -webkit-flex: auto;
+        flex: 0 0 auto;
+        margin-top: 10px;
+    }
+    .item hr{
+        color: red;
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+    }
+    .item iframe{
+        width: 100%;
+    }
+    .item.sub{
+        margin-top: 0px;
+        font-size: 12px;
+        text-align: center;
+    }
+    .item.bold{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+}
+
+.footer{
+    background: black;
+    display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    flex-basis: 1;
+    width: 100%;
+    margin-top: 20px;
+    .item{
+        -webkit-flex: auto;
+        flex: 0 0 auto;
+        margin-top: 10px;
+        color: white;
+        text-align: center;
+    }
+    .item.bold{
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 24px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .item.sub{
+        margin-top: 0px;
+        font-size: 12px;
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+}

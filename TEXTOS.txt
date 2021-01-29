@@ -1,0 +1,43 @@
+HEADER
+
+logo+Enciclopedia Front-End+ES|EN
+
+NAV
+
+Module-Bundlers/Lenguajes Front-End / Preprocesadores
+
+MAIN
+
+Module Bundlers
+
+Por nombre del alumno, 21 de noviembre de 2019
+
+Bio ejemplo
+
+/Profesora de ciclos formativos C.I.Politécnico de Estella de la rama de informatica. Profesora Grado Diseño Escuela de Artes de Corella. Diseñadora freelance./ 
+
+Cambiar por un pequeño texto que os describa.
+
+Un module bundler nos permite automatizar una serie de tareas así como gestionar los assets de las dependencias que hemos instalado con npm si estamos utilizando ese gestor de paquetes. Parcel es un nuevo module bundler que promete unos tiempos de building ultrarápidos y zero config, por lo que se postula como un claro rival para la herramienta más usada actualmente: Webpack. 
+
+video YOUTUBE
+https://www.youtube.com/watch?v=JWRl6XiJYNA&feature=youtu.be
+
+Designing a Progressive Web App with Firebase - Designer vs. Developer Google Chrome Developers 
+
+Parcel es un nuevo empaquetador de código que esta ganando popularidad y que puede ser muy util en debido a su rapidez y características. La ventaja de la que más presumen en su web, y que lo convierten en un serio competidor es su velocidad.Otra de las ventajas más importantes que tiene es que no requiere de configuración, para los que llevamos años usando webpack esto es una agradable novedad, pues la configuración de los empaquetadores suele ser una tarea muy compleja y bastante delicada. El empaquetado de JS, CSS, HTML, archivos, etc es automático, sin que tengamos que añadirle plugins o loaders para definir que hacer con cada tipo de fichero
+
+fOOTER
+
+lOGO
+
+Enciclopedia de Front-End
+Calle Cantones 5. 31243 Estella
+Tel. 948 22 65 36
+info@enciclopediafrontend.org
+
+ 
+NAV
+    Quiénes somos / Política de privacidad / Aviso legal / Cookies 
+
+Actividad realizada por nombre alumno, para la asignatura Diseño de Interfaces WEB . Curso 2020-2021
